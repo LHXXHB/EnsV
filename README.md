@@ -18,7 +18,7 @@
 
 ### Citation
 
-> @inproceedings{hu2023simplifying, 
+> @inproceedings{hu2023simplifying,  
 > &nbsp; &nbsp;  title={Simplifying and Stabilizing Model Selection in Unsupervised Domain Adaptation},  
 > &nbsp; &nbsp;  author={Dapeng Hu and Mi Luo and Jian Liang and Chuan-Sheng Foo},  
 > &nbsp; &nbsp;  booktitle={NeurIPS 2023 Workshop on Distribution Shifts: New Frontiers with Foundation Models},   
