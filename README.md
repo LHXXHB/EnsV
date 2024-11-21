@@ -1,6 +1,6 @@
 # Code for **EnsV**
 
-## [**Simplifying and Stabilizing Model Selection in Unsupervised Domain Adaptation**](https://openreview.net/forum?id=SfRa1zGxCg)
+## [**Towards Reliable Model Selection for Unsupervised Domain Adaptation: An Empirical Study and A Certified Baseline**](https://openreview.net/forum?id=rI7kbFTSpr)
 
 ### Prerequisites
 - python == 3.7.13 
@@ -18,10 +18,10 @@
 
 ### Citation
 
-> @inproceedings{hu2023simplifying,  
-> &nbsp; &nbsp;  title={Simplifying and Stabilizing Model Selection in Unsupervised Domain Adaptation},  
+> @inproceedings{hu2024towards,  
+> &nbsp; &nbsp;  title={Towards Reliable Model Selection for Unsupervised Domain Adaptation: An Empirical Study and A Certified Baseline},  
 > &nbsp; &nbsp;  author={Dapeng Hu and Mi Luo and Jian Liang and Chuan-Sheng Foo},  
-> &nbsp; &nbsp;  booktitle={NeurIPS 2023 Workshop on Distribution Shifts: New Frontiers with Foundation Models},   
+> &nbsp; &nbsp;  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},   
 > &nbsp; &nbsp;  year={2023}  
 > }
 
